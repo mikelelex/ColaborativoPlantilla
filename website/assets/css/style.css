@@ -14,9 +14,7 @@ body{
 .h1Class {
     font-size: 60px;
     background-color: white;
-    padding-bottom: 10px;
-
-    
+    padding-bottom: 10px; 
 }
 
 .h3Class {
@@ -30,3 +28,67 @@ body{
     top: 40px;
 }
 
+
+#HeadingText {
+   font-size: 15px;
+   display: inline-flex;
+   pointer-events: relative;
+
+}
+
+.caja1 {
+    background-color: white;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+    margin-top: 60px;
+    
+}
+
+
+.caja2 {
+    background-color: white;
+    display: flex;
+    
+    align-items: left;
+    margin-bottom: 50px;
+}
+
+.izqcaja {
+    padding-bottom: 70px;
+}
+
+#breakingbad {
+    border-radius: 50%;
+    position: right;
+    position: relative;
+    height: 250px;
+    width: 250px;
+    margin-top: 20px;
+}
+
+
+#keyboard {
+    border-radius: 50%;
+    right: 40px;
+    margin-bottom: 20px;
+    height: 250px;
+    width: 250px;
+}
+
+.cartita
+{
+    height: 100px;
+    width: 300px;
+    position: center;
+}
+
+.titular-caja
+{
+    font-size: 30px;
+}
+
+.container-fluid {
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
